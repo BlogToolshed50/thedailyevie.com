@@ -1,0 +1,18 @@
+---
+id: 1391
+title: A Great Traveling Experience
+date: 2012-12-24T04:24:00+00:00
+author: admin
+layout: post
+guid: http://www.thedailyevie.com/?p=1391
+permalink: /2012/12/24/a-great-traveling-experience/
+categories:
+  - General
+---
+Dubai normally gets clubbed with one of the most expensive places on earth. The magnitude of its wealth can easily be gauged from the way the city has been making growth during the last two and half decades. The world renowned Dubai free trade zone, the upcoming seashore marvel of Dubai Marina and the continuous development of some amazing buildings across its horizon are enough indicators of what lies in Dubai&#8217;s coffers. But what makes this city more special is the manner in which fusion of Islam has taken place with modernity. There is a distinct flavor of ethnicity present on one hand, and on the other an amazing advancement taking place on all fronts. If you traveled across the globe in today&#8217;s times, hardly could you think of capturing such a fine blend of modern and ancient ethos at any other single place.
+
+The world has been converging at the doors of Dubai as a result, to take part in the dream run it has been witnessing for some time now. Along with the mass of entrepreneurs and the skilled workforce, there are a growing number of tourists flying across each year into this princely territory. This has made the quality accommodation and its round-the-clock availability a must have facility for the Dubai planners. Hoteliers gain tremendous significance in this scenario, something we are going to have a word spread out about through these paragraphs. Any debate on hotels of Dubai is bound to cause an equally gripping response as the rest of Dubai would normally do so on any other occasion. The fusion of ethnicity and the modernization can as strongly be seen in the hotel industry as well as the rest of Dubai speaks about for it as a whole.
+
+Starting with the best in the league, Built 288 meters off the seashore inside waters, the sail-like concrete marvel soars 321 meters above the famous Jumeirah Beach. However, it&#8217;s the range of two, three, four and five star hotels in Dubai that occupy bulk of catering business like they will do anywhere else in the world. Almost two dozen five-star hotels are running on their shops right now and shaping out Dubai&#8217;s breathtaking skyline at the same time. A number of two and three-star hotels are also known to be providing equally competitive services, thus reaching out to all the travelers in this part of the world. For example a three star facility that has been gaining popularity among the business travelers and tourists alike, due to its proximity to the commercial hubs and the Dubai International Airport, both. In any case, services on offer at these lowly-ranked hotels can still be expected to be of very high standards.
+
+Interestingly, also available are privately owned apartments these days that will cost almost the same amounts as the low-end segment of hotel industry generally bills you for. But, these apartments are better suited for the long term stays, and can never be described as a complete alternative of staying at hotels. Put in the right perspective, Dubai hotels are nicely placed to serve the influx of tourists on its territory. They are institutionally well organized bodies that will keep charging ahead on the path of glory and success, year after another. The unfolding saga of Dubai hotels is no doubt, a highly gripping and exciting one in kind!

@@ -1,0 +1,26 @@
+---
+id: 1732
+title: The Future of Electronic Publishing
+date: 2014-09-16T05:57:00+00:00
+author: admin
+layout: post
+guid: http://www.thedailyevie.com/?p=1732
+permalink: /2014/09/16/the-future-of-electronic-publishing/
+categories:
+  - General
+---
+The emergence of electronic publishing was supposed to change all that. Yet a bloodbath of unusual proportions has taken place in the last few months. Time Warner&#8217;s iPublish and MightyWords (partly owned by Barnes and Noble) were the last in a string of resounding failures which cast in doubt the business model underlying digital content. Everything seemed to have gone wrong: the dot.coms dot bombed, venture capital dried up, competing standards fractured an already fragile marketplace, the hardware (e-book readers) was clunky and awkward, the software unwieldy, the e-books badly written or already in the public domain.
+
+Terrified by the inexorable process of dis-intermediation (the establishment of direct contact between author and readers, excluding publishers and bookstores) and by the ease with which digital content can be replicated &#8211; publishers resorted to draconian copyright protection measures (euphemistically known as &#8220;digital rights management&#8221;). This further alienated the few potential readers left. The opposite model of &#8220;viral&#8221; or &#8220;buzz&#8221; marketing (by encouraging the dissemination of free copies of the promoted book) was only marginally more successful.
+
+From an open, somewhat anarchic, web of networked computers &#8211; it has evolved into a territorial, commercial, corporate extension of &#8220;brick and mortar&#8221; giants, subject to government regulation. It is less friendly towards independent (small) publishers, the backbone of e-publishing. Increasingly, it is expropriated by publishing and media behemoths. It is treated as a medium for cross promotion, supply chain management, and customer relations management. It offers only some minor synergies with non-cyberspace, real world, franchises and media properties. The likes of Disney and Bertelsmann have swung a full circle from considering the Internet to be the next big thing in New Media delivery &#8211; to frantic efforts to contain the red ink it oozed all over their otherwise impeccable balance sheets.
+
+But were the now silent pundits right all the same? Is the future of publishing (and other media industries) inextricably intertwined with the Internet?
+
+The answer depends on whether an old habit dies hard. Internet surfers are used to free content. They are very reluctant to pay for information (with precious few exceptions, like the &#8220;Wall Street Journal&#8221;&#8216;s electronic edition). Moreover, the Internet, with 3 billion pages listed in the Google search engine (and another 15 billion in &#8220;invisible&#8221; databases), provides many free substitutes to every information product, no matter how superior. Web based media companies (such as Salon and Britannica.com) have been experimenting with payment and pricing models. 
+
+Paradoxically, e-publishing&#8217;s main hope may lie with its ostensible adversary: the library. Unbelievably, e-publishers actually tried to limit the access of library patrons to e-books (i.e., the lending of e-books to multiple patrons). But, libraries are not only repositories of knowledge and community centers. They are also dominant promoters of new knowledge technologies. They are already the largest buyers of e-books. Together with schools and other educational institutions, libraries can serve as decisive socialization agents and introduce generations of pupils, students, and readers to the possibilities and riches of e-publishing. Government use of e-books (e.g., by the military) may have the same beneficial effect.
+
+As standards converge (Adobe&#8217;s Portable Document Format and Microsoft&#8217;s MS Reader LIT format are likely to be the winners), as hardware improves and becomes ubiquitous (within multi-purpose devices or as standalone higher quality units), as content becomes more attractive (already many new titles are published in both print and electronic formats), as more versatile information taxonomies (like the Digital Object Identifier) are introduced, as the Internet becomes more gender-neutral, polyglot, and cosmopolitan &#8211; e-publishing is likely to recover and flourish.
+
+This renaissance will probably be aided by the gradual decline of print magazines and by a strengthening movement for free open source scholarly publishing. The publishing of periodical content and academic research (including, gradually, peer reviewed research) may be already shifting to the Web. Non-fiction and textbooks will follow. Alternative models of pricing are already in evidence (author pays to publish, author pays to obtain peer review, publisher pays to publish, buy a physical product and gain access to enhanced online content, and so on). Web site rating agencies will help to discriminate between the credible and the in-credible. Publishing is moving &#8211; albeit kicking and screaming &#8211; online
